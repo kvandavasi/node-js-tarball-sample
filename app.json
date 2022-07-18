@@ -8,5 +8,5 @@
     {
       "plan": "heroku-postgresql",
     }
-  ],
+  ]
 }
