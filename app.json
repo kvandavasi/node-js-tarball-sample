@@ -5,4 +5,7 @@
   "addons": [ "heroku-postgresql" ],
   "logo": "https://rawgit.com/heroku/node-js-sample/master/public/node.svg",
   "keywords": ["node", "express", "static"]
+  "scripts": {
+    "postdeploy": "exit 1"
+  }
 }
