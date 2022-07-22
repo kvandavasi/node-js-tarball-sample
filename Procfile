@@ -1,2 +1,2 @@
 web: node index.js
-release: exit 1
+release: exit 0
